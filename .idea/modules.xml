@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java多线程/Java多线程.iml" filepath="$PROJECT_DIR$/Java多线程/Java多线程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java常用类/Java常用类.iml" filepath="$PROJECT_DIR$/Java常用类/Java常用类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java泛型/Java泛型.iml" filepath="$PROJECT_DIR$/Java泛型/Java泛型.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java集合/Java集合.iml" filepath="$PROJECT_DIR$/Java集合/Java集合.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java集合/thread.iml" filepath="$PROJECT_DIR$/Java集合/thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread/thread.iml" filepath="$PROJECT_DIR$/thread/thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/异常处理/异常处理.iml" filepath="$PROJECT_DIR$/异常处理/异常处理.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java常用类/程序记录.iml" filepath="$PROJECT_DIR$/Java常用类/程序记录.iml" />
+    </modules>
+  </component>
+</project>
