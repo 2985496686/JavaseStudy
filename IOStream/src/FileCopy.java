@@ -10,9 +10,11 @@ public class FileCopy {
         try {
             fis = new FileInputStream("D:\\JavaStudy\\p\\pp.jpg");
             fos = new FileOutputStream("test3",true);
-            int readData;
-            while((readData = fis.read()) != -1){
-                fos.write(readData);
+            byte[] bytes = new byte[1024*1024];//1MB
+            int readCount;
+            while((readCount = fis.read(bytes)) != -1){
+                fos.write(bytes,0,readCount);
+                fos.flush();
             }
         } catch (FileNotFoundException e) {
             e.printStackTrace();
